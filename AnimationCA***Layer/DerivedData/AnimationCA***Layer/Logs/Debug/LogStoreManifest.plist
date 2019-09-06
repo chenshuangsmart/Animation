@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C8799757-F493-4A6B-AF8E-3EDCC16C60E3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C8799757-F493-4A6B-AF8E-3EDCC16C60E3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589425818.177508</real>
+			<key>timeStoppedRecording</key>
+			<real>589425830.70394194</real>
+			<key>title</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>C8799757-F493-4A6B-AF8E-3EDCC16C60E3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

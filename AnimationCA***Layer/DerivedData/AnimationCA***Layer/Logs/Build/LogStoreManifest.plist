@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B18D125B-2C32-4BBF-9A0C-1D2432043A1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B18D125B-2C32-4BBF-9A0C-1D2432043A1A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589425809.74078405</real>
+			<key>timeStoppedRecording</key>
+			<real>589425818.27470505</real>
+			<key>title</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>B18D125B-2C32-4BBF-9A0C-1D2432043A1A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
