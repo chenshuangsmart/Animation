@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53CE52F129E27E4AE6A1FDAE1E102AC77F778B65",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53CE52F129E27E4AE6A1FDAE1E102AC77F778B65" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B246F626-2880-4760-89B8-81F8384B3F1F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53CE52F129E27E4AE6A1FDAE1E102AC77F778B65" : "Animation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AnimationCA***Layer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AnimationCA***Layer\/AnimationCA***Layer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chenshuangsmart\/Animation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53CE52F129E27E4AE6A1FDAE1E102AC77F778B65"
+    }
+  ]
+}

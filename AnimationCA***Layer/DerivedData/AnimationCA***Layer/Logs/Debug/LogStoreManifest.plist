@@ -6,6 +6,102 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>4D5DFC8D-D311-4088-AAC2-E23ACC8C99C7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4D5DFC8D-D311-4088-AAC2-E23ACC8C99C7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426237.599226</real>
+			<key>timeStoppedRecording</key>
+			<real>589426278.11170995</real>
+			<key>title</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>4D5DFC8D-D311-4088-AAC2-E23ACC8C99C7</string>
+		</dict>
+		<key>68939BD4-720A-4577-AD37-21F667CD27B0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>68939BD4-720A-4577-AD37-21F667CD27B0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426420.52274501</real>
+			<key>timeStoppedRecording</key>
+			<real>589426474.81473994</real>
+			<key>title</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>68939BD4-720A-4577-AD37-21F667CD27B0</string>
+		</dict>
+		<key>C7E9C71E-571F-4460-9284-6492FBDC67A4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C7E9C71E-571F-4460-9284-6492FBDC67A4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426333.12332797</real>
+			<key>timeStoppedRecording</key>
+			<real>589426417.38193703</real>
+			<key>title</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>C7E9C71E-571F-4460-9284-6492FBDC67A4</string>
+		</dict>
 		<key>C8799757-F493-4A6B-AF8E-3EDCC16C60E3</key>
 		<dict>
 			<key>className</key>
@@ -37,6 +133,38 @@
 			<string>Debug AnimationCA***Layer</string>
 			<key>uniqueIdentifier</key>
 			<string>C8799757-F493-4A6B-AF8E-3EDCC16C60E3</string>
+		</dict>
+		<key>E31CC04E-0644-4F41-A7FD-240AF82BEBBC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E31CC04E-0644-4F41-A7FD-240AF82BEBBC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426281.13149095</real>
+			<key>timeStoppedRecording</key>
+			<real>589426309.15011501</real>
+			<key>title</key>
+			<string>Debug AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>E31CC04E-0644-4F41-A7FD-240AF82BEBBC</string>
 		</dict>
 	</dict>
 </dict>

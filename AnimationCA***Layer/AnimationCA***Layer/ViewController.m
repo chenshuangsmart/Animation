@@ -86,7 +86,13 @@
 //    [self createCAEmitterLayer];
     
     /// 9.CAEAGLLayer
-    [self createEAGLayer];
+//    [self createEAGLayer];
+    
+    /// 十 AVPlayerLayer
+//    [self createAVPlayerLayer];
+    
+    // 给视频增加变换，边框和圆角
+    [self createMultiAVPlayerLayer];
 }
 
 /// 1.CAShapeLayer

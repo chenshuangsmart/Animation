@@ -13,6 +13,7 @@
 		933F6C7F2318B36D0059239B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 933F6C7E2318B36D0059239B /* Assets.xcassets */; };
 		933F6C822318B36D0059239B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 933F6C802318B36D0059239B /* LaunchScreen.storyboard */; };
 		933F6C852318B36D0059239B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 933F6C842318B36D0059239B /* main.m */; };
+		9378193D2321EE3800116C88 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9378193C2321EE3800116C88 /* video.mp4 */; };
 		93E7CFB4231A4D1B00EC8406 /* LayerLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 93E7CFB3231A4D1B00EC8406 /* LayerLabel.m */; };
 		93E7CFB7231A636800EC8406 /* ReflectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 93E7CFB6231A636800EC8406 /* ReflectionView.m */; };
 		93E7CFBA231A694A00EC8406 /* ScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 93E7CFB9231A694A00EC8406 /* ScrollView.m */; };
@@ -29,6 +30,7 @@
 		933F6C812318B36D0059239B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		933F6C832318B36D0059239B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		933F6C842318B36D0059239B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9378193C2321EE3800116C88 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 		93E7CFB2231A4D1B00EC8406 /* LayerLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LayerLabel.h; sourceTree = "<group>"; };
 		93E7CFB3231A4D1B00EC8406 /* LayerLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LayerLabel.m; sourceTree = "<group>"; };
 		93E7CFB5231A636800EC8406 /* ReflectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReflectionView.h; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 		933F6C742318B36B0059239B /* AnimationCA***Layer */ = {
 			isa = PBXGroup;
 			children = (
+				9378193C2321EE3800116C88 /* video.mp4 */,
 				933F6C752318B36B0059239B /* AppDelegate.h */,
 				933F6C762318B36B0059239B /* AppDelegate.m */,
 				933F6C782318B36B0059239B /* ViewController.h */,
@@ -146,6 +149,7 @@
 				933F6C822318B36D0059239B /* LaunchScreen.storyboard in Resources */,
 				933F6C7F2318B36D0059239B /* Assets.xcassets in Resources */,
 				933F6C7D2318B36B0059239B /* Main.storyboard in Resources */,
+				9378193D2321EE3800116C88 /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

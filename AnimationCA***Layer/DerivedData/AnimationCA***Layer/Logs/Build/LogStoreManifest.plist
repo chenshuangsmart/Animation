@@ -6,6 +6,134 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>43DDC0C7-F3DF-4330-BD75-5ECA7B6082BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43DDC0C7-F3DF-4330-BD75-5ECA7B6082BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426235.99797797</real>
+			<key>timeStoppedRecording</key>
+			<real>589426237.84287596</real>
+			<key>title</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>43DDC0C7-F3DF-4330-BD75-5ECA7B6082BE</string>
+		</dict>
+		<key>50135DAD-F760-4C54-A129-2DC346372C66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50135DAD-F760-4C54-A129-2DC346372C66.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426417.720083</real>
+			<key>timeStoppedRecording</key>
+			<real>589426420.68024099</real>
+			<key>title</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>50135DAD-F760-4C54-A129-2DC346372C66</string>
+		</dict>
+		<key>55771DBD-B122-4B4A-BFB9-43AC02D4905F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55771DBD-B122-4B4A-BFB9-43AC02D4905F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426333.06889999</real>
+			<key>timeStoppedRecording</key>
+			<real>589426333.20126796</real>
+			<key>title</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>55771DBD-B122-4B4A-BFB9-43AC02D4905F</string>
+		</dict>
+		<key>6561B698-DF74-4577-BF59-F0FD40A19D36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6561B698-DF74-4577-BF59-F0FD40A19D36.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationCA***Layer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationCA***Layer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>timeStartedRecording</key>
+			<real>589426277.84494102</real>
+			<key>timeStoppedRecording</key>
+			<real>589426281.24667704</real>
+			<key>title</key>
+			<string>Build AnimationCA***Layer</string>
+			<key>uniqueIdentifier</key>
+			<string>6561B698-DF74-4577-BF59-F0FD40A19D36</string>
+		</dict>
 		<key>B18D125B-2C32-4BBF-9A0C-1D2432043A1A</key>
 		<dict>
 			<key>className</key>
