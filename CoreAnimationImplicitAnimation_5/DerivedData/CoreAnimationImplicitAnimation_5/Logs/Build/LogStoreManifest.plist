@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05FDFD2B-FCE5-4152-B9AA-2B91275BFA54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05FDFD2B-FCE5-4152-B9AA-2B91275BFA54.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589512771.934093</real>
+			<key>timeStoppedRecording</key>
+			<real>589512772.07169294</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>05FDFD2B-FCE5-4152-B9AA-2B91275BFA54</string>
+		</dict>
+		<key>1079287A-A11D-4085-BE6D-ED4DC08E76B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1079287A-A11D-4085-BE6D-ED4DC08E76B1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589516320.94599998</real>
+			<key>timeStoppedRecording</key>
+			<real>589516323.13498497</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>1079287A-A11D-4085-BE6D-ED4DC08E76B1</string>
+		</dict>
+		<key>26D6F2BA-0953-4447-8411-5B7FE3BD8906</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26D6F2BA-0953-4447-8411-5B7FE3BD8906.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684812.29877996</real>
+			<key>timeStoppedRecording</key>
+			<real>589684812.49212599</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>26D6F2BA-0953-4447-8411-5B7FE3BD8906</string>
+		</dict>
+		<key>2EBA7A4B-DB36-4320-9088-5E3B891F52EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2EBA7A4B-DB36-4320-9088-5E3B891F52EF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589518048.88306499</real>
+			<key>timeStoppedRecording</key>
+			<real>589518049.06380701</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>2EBA7A4B-DB36-4320-9088-5E3B891F52EF</string>
+		</dict>
+		<key>31BBFECF-3950-4DCD-B4B8-486A7DE00151</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31BBFECF-3950-4DCD-B4B8-486A7DE00151.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589514066.75156796</real>
+			<key>timeStoppedRecording</key>
+			<real>589514068.08198798</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>31BBFECF-3950-4DCD-B4B8-486A7DE00151</string>
+		</dict>
+		<key>4565E126-6D06-4692-8AE5-970FB3259C2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4565E126-6D06-4692-8AE5-970FB3259C2E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589512681.43115699</real>
+			<key>timeStoppedRecording</key>
+			<real>589512687.17980099</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>4565E126-6D06-4692-8AE5-970FB3259C2E</string>
+		</dict>
+		<key>7235E8A6-5FF3-4E50-B9F8-D99F15C14E2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7235E8A6-5FF3-4E50-B9F8-D99F15C14E2F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684733.26793098</real>
+			<key>timeStoppedRecording</key>
+			<real>589684735.04759705</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>7235E8A6-5FF3-4E50-B9F8-D99F15C14E2F</string>
+		</dict>
+		<key>7DF41A66-07E9-4087-AEE6-95EC7C0EAFF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DF41A66-07E9-4087-AEE6-95EC7C0EAFF3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589518036.99580503</real>
+			<key>timeStoppedRecording</key>
+			<real>589518038.49495602</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>7DF41A66-07E9-4087-AEE6-95EC7C0EAFF3</string>
+		</dict>
+		<key>7FD38BCA-8769-48C7-8A9E-0945E061E07D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FD38BCA-8769-48C7-8A9E-0945E061E07D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684752.33772397</real>
+			<key>timeStoppedRecording</key>
+			<real>589684753.27590704</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>7FD38BCA-8769-48C7-8A9E-0945E061E07D</string>
+		</dict>
+		<key>E07A548F-33EA-4CD5-B0E6-51B920C81FBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E07A548F-33EA-4CD5-B0E6-51B920C81FBC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589537920.98652697</real>
+			<key>timeStoppedRecording</key>
+			<real>589537921.24255395</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>E07A548F-33EA-4CD5-B0E6-51B920C81FBC</string>
+		</dict>
+		<key>E28BDA92-E42E-4506-A79B-CBA17CB013F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E28BDA92-E42E-4506-A79B-CBA17CB013F5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589517248.69255197</real>
+			<key>timeStoppedRecording</key>
+			<real>589517250.31863296</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>E28BDA92-E42E-4506-A79B-CBA17CB013F5</string>
+		</dict>
+		<key>F6AEBB0A-B5AF-4B3B-B33B-E6EFCF0D70BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6AEBB0A-B5AF-4B3B-B33B-E6EFCF0D70BD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589515258.12850702</real>
+			<key>timeStoppedRecording</key>
+			<real>589515259.49624801</real>
+			<key>title</key>
+			<string>Build CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>F6AEBB0A-B5AF-4B3B-B33B-E6EFCF0D70BD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

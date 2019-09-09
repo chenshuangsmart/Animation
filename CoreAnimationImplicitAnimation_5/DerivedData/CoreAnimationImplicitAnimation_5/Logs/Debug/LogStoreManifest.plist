@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1F545D7C-A94D-463F-9C60-79CA86C02535</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1F545D7C-A94D-463F-9C60-79CA86C02535.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589517249.81093895</real>
+			<key>timeStoppedRecording</key>
+			<real>589518037.22623801</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>1F545D7C-A94D-463F-9C60-79CA86C02535</string>
+		</dict>
+		<key>242AE417-A0AC-4CBE-B300-9CDD578C204B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>242AE417-A0AC-4CBE-B300-9CDD578C204B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684734.75750196</real>
+			<key>timeStoppedRecording</key>
+			<real>589684752.46968603</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>242AE417-A0AC-4CBE-B300-9CDD578C204B</string>
+		</dict>
+		<key>2F253D14-8716-4A77-94D8-84C4357941D8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F253D14-8716-4A77-94D8-84C4357941D8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589518038.24222898</real>
+			<key>timeStoppedRecording</key>
+			<real>589518049.14512706</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>2F253D14-8716-4A77-94D8-84C4357941D8</string>
+		</dict>
+		<key>570EDD4B-493E-4FAD-8930-A33404628FFB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>570EDD4B-493E-4FAD-8930-A33404628FFB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589514067.81760895</real>
+			<key>timeStoppedRecording</key>
+			<real>589515258.34906197</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>570EDD4B-493E-4FAD-8930-A33404628FFB</string>
+		</dict>
+		<key>6137CB89-AE19-487B-A58A-2AB7272238CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6137CB89-AE19-487B-A58A-2AB7272238CA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684812.366593</real>
+			<key>timeStoppedRecording</key>
+			<real>589685011.586658</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>6137CB89-AE19-487B-A58A-2AB7272238CA</string>
+		</dict>
+		<key>8D9F023B-7506-4DEE-B951-F4AD05E3F93A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8D9F023B-7506-4DEE-B951-F4AD05E3F93A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589512687.09532702</real>
+			<key>timeStoppedRecording</key>
+			<real>589512772.15413594</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>8D9F023B-7506-4DEE-B951-F4AD05E3F93A</string>
+		</dict>
+		<key>B9039277-759D-46B2-AE5B-CE98A3A9EF0F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B9039277-759D-46B2-AE5B-CE98A3A9EF0F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589515259.20095098</real>
+			<key>timeStoppedRecording</key>
+			<real>589516321.17501104</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>B9039277-759D-46B2-AE5B-CE98A3A9EF0F</string>
+		</dict>
+		<key>BC73FBCE-7205-4EEE-B35B-63FA34722F9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BC73FBCE-7205-4EEE-B35B-63FA34722F9A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589516322.49005198</real>
+			<key>timeStoppedRecording</key>
+			<real>589517248.93051302</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>BC73FBCE-7205-4EEE-B35B-63FA34722F9A</string>
+		</dict>
+		<key>BF144ECD-BF15-4D81-BCCA-210F6128B960</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BF144ECD-BF15-4D81-BCCA-210F6128B960.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589684753.16540504</real>
+			<key>timeStoppedRecording</key>
+			<real>589684812.67200899</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>BF144ECD-BF15-4D81-BCCA-210F6128B960</string>
+		</dict>
+		<key>C9E69A0C-AD61-4FDA-A283-57EB07F15112</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C9E69A0C-AD61-4FDA-A283-57EB07F15112.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589518048.95120597</real>
+			<key>timeStoppedRecording</key>
+			<real>589518158.67332697</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>C9E69A0C-AD61-4FDA-A283-57EB07F15112</string>
+		</dict>
+		<key>EA16E635-6EC3-4603-AC2C-F29E6CA0B3BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA16E635-6EC3-4603-AC2C-F29E6CA0B3BC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589537921.15517402</real>
+			<key>timeStoppedRecording</key>
+			<real>589537936.60027897</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>EA16E635-6EC3-4603-AC2C-F29E6CA0B3BC</string>
+		</dict>
+		<key>F0222A18-DAAB-48AE-B2E4-C4DCC3A59511</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F0222A18-DAAB-48AE-B2E4-C4DCC3A59511.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreAnimationImplicitAnimation_5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreAnimationImplicitAnimation_5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>timeStartedRecording</key>
+			<real>589512771.99613202</real>
+			<key>timeStoppedRecording</key>
+			<real>589514066.98087597</real>
+			<key>title</key>
+			<string>Debug CoreAnimationImplicitAnimation_5</string>
+			<key>uniqueIdentifier</key>
+			<string>F0222A18-DAAB-48AE-B2E4-C4DCC3A59511</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
