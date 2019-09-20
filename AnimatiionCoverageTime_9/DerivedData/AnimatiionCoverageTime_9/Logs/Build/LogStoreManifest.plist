@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>190305C3-26A3-42B8-A3C2-82B8B74022A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>190305C3-26A3-42B8-A3C2-82B8B74022A2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimatiionCoverageTime_9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimatiionCoverageTime_9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimatiionCoverageTime_9</string>
+			<key>timeStartedRecording</key>
+			<real>590462783.36343801</real>
+			<key>timeStoppedRecording</key>
+			<real>590462783.551247</real>
+			<key>title</key>
+			<string>Build AnimatiionCoverageTime_9</string>
+			<key>uniqueIdentifier</key>
+			<string>190305C3-26A3-42B8-A3C2-82B8B74022A2</string>
+		</dict>
+		<key>48EA3345-B184-486B-B48C-15FEBC265994</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48EA3345-B184-486B-B48C-15FEBC265994.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimatiionCoverageTime_9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimatiionCoverageTime_9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimatiionCoverageTime_9</string>
+			<key>timeStartedRecording</key>
+			<real>590635516.27630794</real>
+			<key>timeStoppedRecording</key>
+			<real>590635517.83886302</real>
+			<key>title</key>
+			<string>Build AnimatiionCoverageTime_9</string>
+			<key>uniqueIdentifier</key>
+			<string>48EA3345-B184-486B-B48C-15FEBC265994</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
