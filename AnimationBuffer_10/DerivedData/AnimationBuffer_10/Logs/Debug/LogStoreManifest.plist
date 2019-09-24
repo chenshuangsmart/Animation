@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2AD4EACE-DB7F-489C-8A47-5529FD2F9968</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2AD4EACE-DB7F-489C-8A47-5529FD2F9968.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979740.69542694</real>
+			<key>timeStoppedRecording</key>
+			<real>590979750.73371005</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>2AD4EACE-DB7F-489C-8A47-5529FD2F9968</string>
+		</dict>
+		<key>572EA341-D5D4-490D-B54D-6D8B69698EE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>572EA341-D5D4-490D-B54D-6D8B69698EE6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590895011.54518402</real>
+			<key>timeStoppedRecording</key>
+			<real>590895015.85789704</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>572EA341-D5D4-490D-B54D-6D8B69698EE6</string>
+		</dict>
+		<key>92B9E91E-5309-419E-ACCF-21AA3B93451D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>92B9E91E-5309-419E-ACCF-21AA3B93451D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980107.988276</real>
+			<key>timeStoppedRecording</key>
+			<real>590980126.54086494</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>92B9E91E-5309-419E-ACCF-21AA3B93451D</string>
+		</dict>
+		<key>D7CA75D7-F34C-4476-BB81-D8B4862E02B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7CA75D7-F34C-4476-BB81-D8B4862E02B7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979659.08477998</real>
+			<key>timeStoppedRecording</key>
+			<real>590979741.291417</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>D7CA75D7-F34C-4476-BB81-D8B4862E02B7</string>
+		</dict>
+		<key>F40B55E4-1787-4490-B046-A480E90DA5A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F40B55E4-1787-4490-B046-A480E90DA5A7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979750.49849999</real>
+			<key>timeStoppedRecording</key>
+			<real>590980106.46241701</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>F40B55E4-1787-4490-B046-A480E90DA5A7</string>
+		</dict>
+		<key>F6378A64-9731-4121-91CF-7CD5D2EB23CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F6378A64-9731-4121-91CF-7CD5D2EB23CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980126.92686498</real>
+			<key>timeStoppedRecording</key>
+			<real>590980141.42464399</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>F6378A64-9731-4121-91CF-7CD5D2EB23CB</string>
+		</dict>
+		<key>F7A3B545-6A32-440A-8F3A-057C4E5BAD32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7A3B545-6A32-440A-8F3A-057C4E5BAD32.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980140.99586999</real>
+			<key>timeStoppedRecording</key>
+			<real>590980349.30377901</real>
+			<key>title</key>
+			<string>Debug AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>F7A3B545-6A32-440A-8F3A-057C4E5BAD32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

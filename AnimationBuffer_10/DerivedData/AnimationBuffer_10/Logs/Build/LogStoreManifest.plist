@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6011B52A-70B5-4504-84D8-F91BE539A0E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6011B52A-70B5-4504-84D8-F91BE539A0E4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979750.41818202</real>
+			<key>timeStoppedRecording</key>
+			<real>590979750.59891498</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>6011B52A-70B5-4504-84D8-F91BE539A0E4</string>
+		</dict>
+		<key>6B5B0827-E867-4979-8883-F7E188B5F967</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B5B0827-E867-4979-8883-F7E188B5F967.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590895010.00834298</real>
+			<key>timeStoppedRecording</key>
+			<real>590895011.99709404</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>6B5B0827-E867-4979-8883-F7E188B5F967</string>
+		</dict>
+		<key>73D48C04-E8B3-41A0-A803-3BC50504FF72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73D48C04-E8B3-41A0-A803-3BC50504FF72.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979740.62033796</real>
+			<key>timeStoppedRecording</key>
+			<real>590979741.11029303</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>73D48C04-E8B3-41A0-A803-3BC50504FF72</string>
+		</dict>
+		<key>7FB561E8-188A-49A7-A58B-FF02C2E5F309</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FB561E8-188A-49A7-A58B-FF02C2E5F309.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980126.88491702</real>
+			<key>timeStoppedRecording</key>
+			<real>590980127.03519595</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>7FB561E8-188A-49A7-A58B-FF02C2E5F309</string>
+		</dict>
+		<key>9E5F07A0-6331-4403-A7FB-0FE33BFE9D48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E5F07A0-6331-4403-A7FB-0FE33BFE9D48.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980140.83555305</real>
+			<key>timeStoppedRecording</key>
+			<real>590980141.17781401</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>9E5F07A0-6331-4403-A7FB-0FE33BFE9D48</string>
+		</dict>
+		<key>C984148D-179E-4DB1-B57C-3BBA421AD337</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C984148D-179E-4DB1-B57C-3BBA421AD337.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590979657.3721</real>
+			<key>timeStoppedRecording</key>
+			<real>590979659.53220999</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>C984148D-179E-4DB1-B57C-3BBA421AD337</string>
+		</dict>
+		<key>D8D12FC8-1A19-42CF-946E-2ED12D18B2BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8D12FC8-1A19-42CF-946E-2ED12D18B2BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationBuffer_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationBuffer_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>timeStartedRecording</key>
+			<real>590980106.232898</real>
+			<key>timeStoppedRecording</key>
+			<real>590980109.41982901</real>
+			<key>title</key>
+			<string>Build AnimationBuffer_10</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D12FC8-1A19-42CF-946E-2ED12D18B2BE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
