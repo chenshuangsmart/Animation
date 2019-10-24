@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>408A30B1-E48F-4460-BAF4-E4E389EA9F96</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>408A30B1-E48F-4460-BAF4-E4E389EA9F96.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PerformanceOptimization_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PerformanceOptimization_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>timeStartedRecording</key>
+			<real>593571506.78193402</real>
+			<key>timeStoppedRecording</key>
+			<real>593571507.49111903</real>
+			<key>title</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>uniqueIdentifier</key>
+			<string>408A30B1-E48F-4460-BAF4-E4E389EA9F96</string>
+		</dict>
+		<key>A3E055CF-C6BE-4705-B387-80B66B7277B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3E055CF-C6BE-4705-B387-80B66B7277B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PerformanceOptimization_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PerformanceOptimization_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>timeStartedRecording</key>
+			<real>593572820.37683499</real>
+			<key>timeStoppedRecording</key>
+			<real>593572822.31272697</real>
+			<key>title</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>uniqueIdentifier</key>
+			<string>A3E055CF-C6BE-4705-B387-80B66B7277B4</string>
+		</dict>
+		<key>C248BC44-9910-446C-BCE8-CDBA6C374EB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C248BC44-9910-446C-BCE8-CDBA6C374EB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PerformanceOptimization_10 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PerformanceOptimization_10</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>timeStartedRecording</key>
+			<real>593485312.12325895</real>
+			<key>timeStoppedRecording</key>
+			<real>593485312.316064</real>
+			<key>title</key>
+			<string>Build PerformanceOptimization_10</string>
+			<key>uniqueIdentifier</key>
+			<string>C248BC44-9910-446C-BCE8-CDBA6C374EB8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
