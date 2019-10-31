@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2D79E3DC-6B25-4EDF-9FE5-DE9B8D357F9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2D79E3DC-6B25-4EDF-9FE5-DE9B8D357F9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594090625.48454702</real>
+			<key>timeStoppedRecording</key>
+			<real>594090659.83099794</real>
+			<key>title</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>2D79E3DC-6B25-4EDF-9FE5-DE9B8D357F9A</string>
+		</dict>
+		<key>DDFD44AD-A234-4462-A8DC-CBCD8C518140</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DDFD44AD-A234-4462-A8DC-CBCD8C518140.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594090278.45414805</real>
+			<key>timeStoppedRecording</key>
+			<real>594090522.79544497</real>
+			<key>title</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>DDFD44AD-A234-4462-A8DC-CBCD8C518140</string>
+		</dict>
+		<key>E1FF0A9F-BE02-48FE-9CF3-7C35014A2CDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1FF0A9F-BE02-48FE-9CF3-7C35014A2CDF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>593918879.60642004</real>
+			<key>timeStoppedRecording</key>
+			<real>593918920.09756505</real>
+			<key>title</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>E1FF0A9F-BE02-48FE-9CF3-7C35014A2CDF</string>
+		</dict>
+		<key>F8130913-69E6-4EA1-A9F2-CA6B606730FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8130913-69E6-4EA1-A9F2-CA6B606730FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594176130.68095303</real>
+			<key>timeStoppedRecording</key>
+			<real>594177001.78824699</real>
+			<key>title</key>
+			<string>Debug DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>F8130913-69E6-4EA1-A9F2-CA6B606730FC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>280FBD93-9D9C-46FA-9ECD-19F9F56BEB2D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>280FBD93-9D9C-46FA-9ECD-19F9F56BEB2D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594090625.362432</real>
+			<key>timeStoppedRecording</key>
+			<real>594090625.47303402</real>
+			<key>title</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>280FBD93-9D9C-46FA-9ECD-19F9F56BEB2D</string>
+		</dict>
+		<key>99BEB464-4B1F-44A1-A31E-E955CE765637</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99BEB464-4B1F-44A1-A31E-E955CE765637.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594090268.88441002</real>
+			<key>timeStoppedRecording</key>
+			<real>594090269.82171297</real>
+			<key>title</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>99BEB464-4B1F-44A1-A31E-E955CE765637</string>
+		</dict>
+		<key>A56487AC-C52F-4B92-9EF9-ADBFA19962D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A56487AC-C52F-4B92-9EF9-ADBFA19962D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594176128.66199899</real>
+			<key>timeStoppedRecording</key>
+			<real>594176130.614483</real>
+			<key>title</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>A56487AC-C52F-4B92-9EF9-ADBFA19962D7</string>
+		</dict>
+		<key>DA590AE0-6545-4ADC-9A6F-2A424A9CDA2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA590AE0-6545-4ADC-9A6F-2A424A9CDA2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>593918879.51304603</real>
+			<key>timeStoppedRecording</key>
+			<real>593918879.59776402</real>
+			<key>title</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>DA590AE0-6545-4ADC-9A6F-2A424A9CDA2A</string>
+		</dict>
+		<key>F5919E13-90FB-494F-A774-D4BAF89ECC29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5919E13-90FB-494F-A774-D4BAF89ECC29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DrawHighEfficiency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DrawHighEfficiency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>timeStartedRecording</key>
+			<real>594090274.34326696</real>
+			<key>timeStoppedRecording</key>
+			<real>594090278.43410206</real>
+			<key>title</key>
+			<string>Build DrawHighEfficiency</string>
+			<key>uniqueIdentifier</key>
+			<string>F5919E13-90FB-494F-A774-D4BAF89ECC29</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
