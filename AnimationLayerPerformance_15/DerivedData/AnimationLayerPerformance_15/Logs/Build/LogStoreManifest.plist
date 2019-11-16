@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>77FFB657-42CF-4716-BF1A-C385A5BF5910</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77FFB657-42CF-4716-BF1A-C385A5BF5910.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationLayerPerformance_15 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationLayerPerformance_15</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationLayerPerformance_15</string>
+			<key>timeStartedRecording</key>
+			<real>595584666.47823203</real>
+			<key>timeStoppedRecording</key>
+			<real>595584666.52792299</real>
+			<key>title</key>
+			<string>Build AnimationLayerPerformance_15</string>
+			<key>uniqueIdentifier</key>
+			<string>77FFB657-42CF-4716-BF1A-C385A5BF5910</string>
+		</dict>
+		<key>D89DED5D-9993-427E-8B26-D0E202C1426C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D89DED5D-9993-427E-8B26-D0E202C1426C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnimationLayerPerformance_15 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnimationLayerPerformance_15</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AnimationLayerPerformance_15</string>
+			<key>timeStartedRecording</key>
+			<real>595473555.83178496</real>
+			<key>timeStoppedRecording</key>
+			<real>595473557.19733095</real>
+			<key>title</key>
+			<string>Build AnimationLayerPerformance_15</string>
+			<key>uniqueIdentifier</key>
+			<string>D89DED5D-9993-427E-8B26-D0E202C1426C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
